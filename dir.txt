@@ -1,0 +1,10 @@
+admin
+api
+Addons
+Conf
+Data
+index.php
+install.php
+cc.php
+Public/404
+Runtime/logs
